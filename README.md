@@ -3,7 +3,7 @@
 Simple middleware for rendertron using [rendertron-middleware](https://github.com/GoogleChrome/rendertron/tree/main/middleware).  
 Opinionatedly configured to skip static resources and every bot (including GoogleBot).
 
-## Usage
+## Usage
 
 ```help
 start the server
@@ -17,7 +17,7 @@ Options:
       --help                         Show help                         [boolean]
 ```
 
-### Example
+### Example
 
 ```bash
 yarn start --port 5000 --rendertronUrl https://my-rendertron-instance/render
