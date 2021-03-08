@@ -11,5 +11,8 @@
     "express": "^4.17.1",
     "rendertron-middleware": "^0.1.5",
     "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "release-it": "^14.4.1"
   }
 }
