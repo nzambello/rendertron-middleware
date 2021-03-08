@@ -1,0 +1,12 @@
+{
+  "name": "rendertron-middleware",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Nicola Zambello",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "rendertron-middleware": "^0.1.5",
+    "yargs": "^16.2.0"
+  }
+}
