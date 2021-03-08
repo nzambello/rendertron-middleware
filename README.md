@@ -1,6 +1,6 @@
 # rendertron-middleware
 
-Simple middleware for rendertron using [rendertron-middleware](https://github.com/GoogleChrome/rendertron/tree/main/middleware).
+Simple middleware for rendertron using [rendertron-middleware](https://github.com/GoogleChrome/rendertron/tree/main/middleware).  
 Opinionatedly configured to skip static resources and every bot (including GoogleBot).
 
 ```help
